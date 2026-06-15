@@ -1,0 +1,3 @@
+# Treat generated HTML notebook exports as documentation so GitHub
+# language statistics reflect the Python and Jupyter work in this repo.
+*.html linguist-documentation
